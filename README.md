@@ -1,4 +1,4 @@
-### Hi, I'm Ho Van Thanh
+# Hi, I'm Ho Van Thanh
 
 - 🌱 I’m currently learning .NET
 
