@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **.NET**
 
-- 👨‍💻 All of my projects are available at [https://github.com/txqt](https://github.com/txqt)
+- 👨‍💻 All of my projects are available at [https://github.com/txqt?tab=repositories](https://github.com/txqt?tab=repositories)
 
 - 📫 How to reach me **cv.hovanthanh@gmail.com**
 
