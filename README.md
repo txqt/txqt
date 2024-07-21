@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ho Van Thanh</h1>
+<h1 align="center">Hi, I'm Thanh</h1>
 <h3 align="center">I am trying to become a professional .NET developer.</h3>
 
 - 🌱 I’m currently learning **.NET**
