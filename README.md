@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Thanh</h1>
-<h3 align="center">I am trying to become a professional .NET developer.</h3>
+<h3 align="center">I aspire to become a professional .NET Developer who continuously learns new technologies and builds practical, valuable products.</h3>
 
-- 🌱 I’m currently learning **.NET**
+- 🌱 I’m currently learning **.NET**, **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/txqt?tab=repositories](https://github.com/txqt?tab=repositories)
 
