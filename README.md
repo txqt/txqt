@@ -35,6 +35,12 @@ My goal is to become a professional developer who can:
 
 ### Tech stack
 
+**AI-assisted Development**
+
+<p>
+  <img src="https://img.shields.io/badge/AI%20Agents-Agentic%20Workflow-6C63FF?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
 **Languages & Frameworks**
 
 <p>
